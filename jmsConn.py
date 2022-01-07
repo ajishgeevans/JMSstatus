@@ -1,7 +1,7 @@
 ## JMS Connection status
-username="system"
-password="admin123"
-url="t3://ptowdoa1.lit.gxsonline.net:7002"
+username="USER"
+password="PASS"
+url="t3://HOST:7002"
 servernames=['BKNDApp1', 'BKNDApp2']
 def conn():
 
